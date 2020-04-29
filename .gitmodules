@@ -1,0 +1,3 @@
+[submodule "spring-rest-surveygroups"]
+	path = spring-rest-surveygroups
+	url = https://github.com/redhat-appdev-practice/spring-rest-surveygroups
